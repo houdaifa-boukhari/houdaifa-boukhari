@@ -55,9 +55,3 @@ I’m actively involved in **Capture The Flag (CTF)** challenges, where I focus 
 
 ![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🌟 **Thank You for Visiting!**
-
-Feel free to explore my repositories, connect with me, or reach out if you'd like to collaborate on cybersecurity projects. Let’s work together to make the digital world safer! 🌐
