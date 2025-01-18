@@ -54,7 +54,6 @@ I’m actively involved in **Capture The Flag (CTF)** challenges, where I focus 
 ## 📊 **GitHub Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aabderrafie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
