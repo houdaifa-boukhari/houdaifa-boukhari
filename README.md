@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I’m Houdaifa El Boukhari, a passionate softwar
 
 ## 🔍 **About Me**
 
-- 💻 **Currently a student** at **1337 Med School**, affiliated with the **42 Network** in Morocco.
+- 💻 **Currently a student** at **1337 Med School**, affiliated with the **42 Network**.
 - 🎓 **Close to completing** the **Common Core program**, with a focus on mastering cybersecurity concepts.
 - 🎯 **Preparing for Certifications**: **CompTIA Security+** and **OSCP**.
 - 🌍 **Based in Morocco** and eager to apply my skills globally.
@@ -53,7 +53,9 @@ I’m actively involved in **Capture The Flag (CTF)** challenges, where I focus 
 
 ## 📊 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aabderrafie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
