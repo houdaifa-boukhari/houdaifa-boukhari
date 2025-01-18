@@ -1,56 +1,55 @@
 # 🌟 Houdaifa El Boukhari — Software Engineer | Cybersecurity Enthusiast
 
-Welcome to my GitHub portfolio! I'm Houdaifa El Boukahri, a passionate software engineer and cybersecurity enthusiast with a keen interest in penetration testing and red teaming. Here, you'll find some of my work, learning progress, and contributions, especially in CTF challenges focused on binary exploitation.
+Welcome to my GitHub portfolio! I’m Houdaifa El Boukhari, a passionate software engineer and cybersecurity enthusiast with a focus on penetration testing, red teaming, and binary exploitation. In this repository, you'll find my projects, learning progress, and contributions, particularly in **CTF** challenges where I dive deep into the world of **binary exploitation**.
 
 ---
 
 ## 🔍 **About Me**
 
-- 💻 Currently a student at 1337 Med School in Morocco affiliated with the 42 Network.
-- 🎓 Close to completing the Common Core program and exploring advanced cybersecurity concepts.
-- 📜 Preparing for Certification CompTIA Security+, OSCP.
-- 🌍 Based in Morocco.
-- 🔒 Focused on penetration testing, red team operations, and binary exploitation.
+- 💻 **Currently a student** at **1337 Med School**, affiliated with the **42 Network** in Morocco.
+- 🎓 **Close to completing** the **Common Core program**, with a focus on mastering cybersecurity concepts.
+- 🎯 **Preparing for Certifications**: **CompTIA Security+** and **OSCP**.
+- 🌍 **Based in Morocco** and eager to apply my skills globally.
+- 🔒 Passionate about **penetration testing**, **red teaming**, and **binary exploitation**.
 
 ---
 
 ## 🚀 **Skills**
 
-- **Programming Languages:** C, C++, Python, Bash.
-- **Cybersecurity:** Linux security, basic penetration testing, CTF challenges
-- **Tools:** Kali Linux, Wireshark, Nmap, Burp Suite, GDB, pwntools
-- **Other Skills:** Networking basics, Git/GitHub, teamwork and collaboration
+- **Programming Languages**: C, C++, Python, Bash.
+- **Cybersecurity**: Linux security, basic penetration testing, CTF challenges.
+- **Tools & Techniques**: Kali Linux, Wireshark, Nmap, GDB, pwntools.
+- **Other Skills**: Networking fundamentals, Git/GitHub, collaboration in team projects.
 
 ---
 
 ## 📚 **1337 Projects (Enjoyable & Powerful Learning)**
 
-Throughout my studies at **1337 School Morocco**, I’ve worked on several engaging and impactful projects as part of the **Common Core** curriculum. These projects helped me explore new topics, refine my skills, and gain powerful experience in various areas of software development and system design. Below are **some** of the projects I’ve worked on:
+Throughout my journey at **1337 School**, I’ve worked on engaging and impactful projects as part of the **Common Core** curriculum. These projects have expanded my knowledge, honed my problem-solving skills, and given me valuable experience in both software development and system design. Below are **some** of the projects I’ve worked on:
 
 - **Philosophers**  
-  A multithreading project simulating the "Dining Philosophers" problem. This project focuses on process synchronization, deadlock prevention, and resource management, requiring advanced knowledge of multithreading concepts and concurrency.
+  A multithreading project simulating the "Dining Philosophers" problem. It explores process synchronization, deadlock prevention, and resource management, requiring a solid understanding of multithreading and concurrency.
 
 - **cub3D**  
-  A 3D game engine based on raycasting, inspired by **Wolfenstein 3D**. This project covers advanced algorithms, graphics programming, and game development. It was a highly complex project, involving raycasting, user input handling, and 3D rendering in C.
+  A 3D game engine based on raycasting, inspired by **Wolfenstein 3D**. This project covers advanced algorithms, graphics programming, and game development. It deepened my understanding of raycasting, 3D rendering, and handling user input in C.
 
 - **mini-shell**  
-  A custom shell implementation in C, this project involved creating a basic shell that can execute commands, handle piping, redirection, and signals, and work with environment variables. This required deep knowledge of system calls, process management, and handling complex input/output operations.
+  A custom shell implementation in C, involving the creation of a basic shell that can execute commands, handle piping, redirection, signals, and environment variables. This project enhanced my knowledge of system calls, process management, and input/output operations.
 
 ---
 
 ## 🏆 **CTF Participation**
 
-I actively participate in Capture The Flag (CTF) challenges to develop my skills, particularly in binary exploitation and penetration testing. Stay tuned for updates as I document my journey and share solutions in the future!
+I’m actively involved in **Capture The Flag (CTF)** challenges, where I focus on **binary exploitation** and **penetration testing**. These challenges are a great way to enhance my technical abilities and problem-solving skills in real-world cybersecurity scenarios. Stay tuned for future updates where I’ll share solutions and experiences!
 
 ---
 
 ## 📞 **Contact Me**
 
-- 📧 Email: hel-bouk@student.1337.ma
-- 💼 LinkedIn: https://www.linkedin.com/in/houdaifa-el-boukhari-505b30174/
+- 📧 **Email**: hel-bouk@student.1337.ma
+- 💼 **LinkedIn**: [Houdaifa El Boukhari](https://www.linkedin.com/in/houdaifa-el-boukhari-505b30174/)
 
 ---
-
 
 ## 📊 **GitHub Stats**
 
@@ -60,4 +59,4 @@ I actively participate in Capture The Flag (CTF) challenges to develop my skills
 
 ## 🌟 **Thank You for Visiting!**
 
-Feel free to explore my repositories, connect, or reach out if you'd like to collaborate. Let's make the digital world more secure together! 🌐
+Feel free to explore my repositories, connect with me, or reach out if you'd like to collaborate on cybersecurity projects. Let’s work together to make the digital world safer! 🌐
