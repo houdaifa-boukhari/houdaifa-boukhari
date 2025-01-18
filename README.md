@@ -8,9 +8,9 @@ Welcome to my GitHub portfolio! I'm Houdaifa El Boukhari, a passionate software 
 
 - 💻 Currently a student at 1337 Med School in Morocco.
 - 🎓 Common Core completed and exploring advanced cybersecurity concepts.
-- 📜 Preparing for [Certification Name, e.g., CompTIA Security+, OSCP].
+- 📜 Preparing for Certification CompTIA Security+, OSCP.
 - 🌍 Based in Morocco.
-- 🔒 Focused on [specific interests, e.g., penetration testing, forensics, or secure software development].
+- 🔒 Focused on penetration testing, red team operations, and binary exploitation.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I'm Houdaifa El Boukhari, a passionate software 
 
 - **Programming Languages:** C, C++, Python, Bash.
 - **Cybersecurity:** Linux security, basic penetration testing, CTF challenges
-- **Tools:** Kali Linux, Wireshark, Burp Suite, [add others]
+- **Tools:** Kali Linux, Wireshark, Nmap, Burp Suite, GDB, pwntools
 - **Other Skills:** Networking basics, Git/GitHub, teamwork and collaboration
 
 ## 🏆 **CTF Challenges and Write-ups**
@@ -30,20 +30,11 @@ Welcome to my GitHub portfolio! I'm Houdaifa El Boukhari, a passionate software 
 
 ## 📞 **Contact Me**
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com) (if any)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) (if any)
+- 📧 Email: hel-bouk@student.1337.ma
+- 💼 LinkedIn: https://www.linkedin.com/in/houdaifa-el-boukhari-505b30174/
 
 ---
 
-## 🌱 **Future Goals**
-
-- Earn [Certification Name, e.g., OSCP or Security+].
-- Contribute to open-source cybersecurity projects.
-- Gain professional experience in [specific domain, e.g., penetration testing or threat analysis].
-
----
 
 ## 📊 **GitHub Stats**
 
