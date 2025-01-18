@@ -1,43 +1,25 @@
-# 🌟 [Your Name] — Software Engineer | Cybersecurity Enthusiast
+# 🌟 Houdaifa El Boukhari — Software Engineer | Cybersecurity Enthusiast
 
-Welcome to my GitHub portfolio! I'm [Your Name], a passionate software engineer and cybersecurity enthusiast with a keen interest in [specific areas, e.g., penetration testing, reverse engineering, or software development]. Here, you'll find some of my projects, experiments, and contributions.
+Welcome to my GitHub portfolio! I'm Houdaifa El Boukhari, a passionate software engineer and cybersecurity enthusiast with a keen interest in [specific areas, e.g., penetration testing, reverse engineering, or software development]. Here, you'll find some of my projects, experiments, and contributions.
 
 ---
 
 ## 🔍 **About Me**
 
-- 💻 Currently a student at [School Name, e.g., 1337 School Morocco].
+- 💻 Currently a student at 1337 Med School in Morocco.
 - 🎓 Common Core completed and exploring advanced cybersecurity concepts.
 - 📜 Preparing for [Certification Name, e.g., CompTIA Security+, OSCP].
-- 🌍 Based in [Location].
+- 🌍 Based in Morocco.
 - 🔒 Focused on [specific interests, e.g., penetration testing, forensics, or secure software development].
 
 ---
 
 ## 🚀 **Skills**
 
-- **Programming Languages:** C, Python, Bash, [add others you know]
+- **Programming Languages:** C, C++, Python, Bash.
 - **Cybersecurity:** Linux security, basic penetration testing, CTF challenges
 - **Tools:** Kali Linux, Wireshark, Burp Suite, [add others]
 - **Other Skills:** Networking basics, Git/GitHub, teamwork and collaboration
-
----
-
-## 📂 **Featured Projects**
-
-### [Project 1 Name](link-to-project-repo)
-**Description:** A brief explanation of the project, its goals, and what you learned or achieved.  
-**Key Features:** Highlight what makes it unique (e.g., tools, techniques).  
-**Technologies Used:** List programming languages, tools, or frameworks.  
-
-### [Project 2 Name](link-to-project-repo)
-**Description:** Similar format as above.  
-**Key Features:**  
-**Technologies Used:**  
-
-_Add as many projects as needed._
-
----
 
 ## 🏆 **CTF Challenges and Write-ups**
 
