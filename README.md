@@ -1,4 +1,4 @@
-# 🌟 Houdaifa El Boukhari
+#  Houdaifa El Boukhari
 ## Software Engineer | Cybersecurity Enthusiast
 
 Welcome to my GitHub portfolio! I’m Houdaifa El Boukhari, a passionate software engineer and cybersecurity enthusiast with a focus on penetration testing, red teaming, and binary exploitation. In this repository, you'll find my projects, learning progress, and contributions, particularly in **CTF** challenges where I dive deep into the world of **binary exploitation**.
